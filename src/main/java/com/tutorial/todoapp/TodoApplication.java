@@ -1,13 +1,13 @@
-package com.tutorial.demoproject;
+package com.tutorial.todoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoprojectApplication {
+public class TodoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoprojectApplication.class, args);
+		SpringApplication.run(TodoApplication.class, args);
 	}
 
 }

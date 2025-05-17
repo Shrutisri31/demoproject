@@ -1,4 +1,4 @@
-package com.tutorial.demoproject;
+package com.tutorial.todoapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
